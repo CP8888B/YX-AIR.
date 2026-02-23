@@ -31,6 +31,33 @@
         "4": {
             "name": "Boeing b737-700",
             "liveries": [
+                  {
+                       "name": "YX Australia Airlines",
+                       "texture": [
+                                "/models/aircraft/premium/737/normal.jpg",
+                                "/models/aircraft/premium/737/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-700/YXcargotechnicaltraining.png"
+                         ],
+                         "credits": "YX"
+                   },
+                  {
+                       "name": "YX Airlines Cargo Technology Training",
+                       "texture": [
+                                "/models/aircraft/premium/737/normal.jpg",
+                                "/models/aircraft/premium/737/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-700/YXcargotechnicaltraining.png"
+                         ],
+                         "credits": "YX"
+                   },
+                  {
+                       "name": "YX Airlines Technology Training",
+                       "texture": [
+                                "/models/aircraft/premium/737/normal.jpg",
+                                "/models/aircraft/premium/737/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-700/YXtechnicaltraining.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Normal map",
@@ -78,6 +105,15 @@
                                 "/models/aircraft/premium/a380/normal.jpg",
                                 "/models/aircraft/premium/a380/specular.jpg",
                                 "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a380/YX.png"
+                         ],
+                         "credits": "YX"
+                   },
+                   {
+                       "name": "YX Airlines (First A380 for YX Airlines)",
+                       "texture": [
+                                "/models/aircraft/premium/a380/normal.jpg",
+                                "/models/aircraft/premium/a380/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a380/YXfirsta380.png"
                          ],
                          "credits": "YX"
                    }
@@ -138,6 +174,13 @@
         "18": {
             "name": "Sukhoi Su-35 Flanker",
             "liveries": [
+                  {
+                       "name": "YX Airlines - 1107",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/su35/1107.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -277,6 +320,13 @@
         "2879": {
             "name": "Airbus a319-100",
             "liveries": [
+                  {
+                       "name": "YX Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a319/YX.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -286,7 +336,7 @@
             "name": "ATR 72-600",
             "liveries": [
                   {
-                       "name": "YX Australia",
+                       "name": "YX Australia Airlines",
                        "texture": [
                                 "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/ATR72-600/YXaustralia.png"
                          ],
@@ -300,6 +350,13 @@
         "2973": {
             "name": "Airbus a350-1000",
             "liveries": [
+                  {
+                       "name": "YX Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-1000/YX.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -347,6 +404,13 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+                  {
+                       "name": "YX Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737max8/YX.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -479,11 +543,43 @@
                          ],
                          "credits": "YX"
                    },
+                  {
+                       "name": "YX Airlines B-59LR",
+                       "texture": [
+                                "/models/aircraft/premium/a350/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXXLR.png"
+                         ],
+                         "credits": "YX"
+                   },
+                  {
+                       "name": "YX Australia Airlines (First A359 for YX Australia Airlines)",
+                       "texture": [
+                                "/models/aircraft/premium/a350/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXaustraliafirst350.png"
+                         ],
+                         "credits": "YX"
+                   },
+                   {
+                       "name": "YX Airlines (Stellar Sky Alliance livery)",
+                       "texture": [
+                                "/models/aircraft/premium/a350/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXsky.png"
+                         ],
+                         "credits": "YX"
+                   },
                    {
                        "name": "YX Airlines (Zhengzhou livery)",
                        "texture": [
                                 "/models/aircraft/premium/a350/specular.jpg",
                                 "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXzhengzhou.png"
+                         ],
+                         "credits": "YX"
+                   },
+                   {
+                       "name": "YX Airlines (BAF livery)",
+                       "texture": [
+                                "/models/aircraft/premium/a350/specular.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXBAF.png"
                          ],
                          "credits": "YX"
                    }
@@ -496,6 +592,13 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+                  {
+                       "name": "YX Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a330-900neo/YX.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -543,6 +646,22 @@
         "25": {
             "name": "Boeing b777-300ER",
             "liveries": [
+                  {
+                       "name": "YX Airlines",
+                       "texture": [
+                                "/models/aircraft/premium/777_300/specular_0.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YX.png"
+                         ],
+                         "credits": "YX"
+                   },
+                  {
+                       "name": "YX Australia Airlines",
+                       "texture": [
+                                "/models/aircraft/premium/777_300/specular_0.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YXaustralia.png"
+                         ],
+                         "credits": "YX"
+                   },
                   {
                        "name": "YX Airlines (Stellar Sky Alliance livery)",
                        "texture": [
@@ -646,6 +765,13 @@
         "2951": {
             "name": "Airbus a340-300",
             "liveries": [
+                  {
+                       "name": "YX Australia Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a340-300/YXaustralia.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -677,6 +803,13 @@
         "5156": {
             "name": "Airbus a318-112",
             "liveries": [
+                  {
+                       "name": "YX Business Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a318/YX_Business.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -904,6 +1037,14 @@
         "1004": {
             "name": "Boeing b777-200LR",
             "liveries": [
+                  {
+                       "name": "YX Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/boeing_b777-200lr/shaders/original.png",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-200LR/YX.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Metallic Roughness shader",
@@ -913,6 +1054,14 @@
         "4402": {
             "name": "Boeing b777-200F",
             "liveries": [
+                  {
+                       "name": "YX Airlines Cargo",
+                       "texture": [
+                                "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/boeing_b777-200f/shaders/original.png",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-200F/YXcargo.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Metallic Roughness shader",
@@ -922,6 +1071,13 @@
         "1001": {
             "name": "Boeing b737-900",
             "liveries": [
+                  {
+                       "name": "YX Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-900/YX.png",
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -938,8 +1094,17 @@
             
         },
         "1018": {
-            "name": "Embraer ERJ 190",
+            "name": "Embraer ERJ190",
             "liveries": [
+                  {
+                       "name": "YX Business Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Embraer_erj190/YX_Business.png",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Embraer_erj190/YX_Business.png",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Embraer_erj190/YX_Business.png"
+                         ],
+                         "credits": "YX"
+                   }
             ],
             "labels": [
                 "Texture"
@@ -990,9 +1155,30 @@
             "name": "Comac C919",
             "liveries": [
                   {
-                       "name": "YX Airlines",
+                       "name": "YX Airlines (new design)",
                        "texture": [
                                 "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YX.png"
+                         ],
+                         "credits": "YX"
+                   },
+                  {
+                       "name": "YX Airlines (old design)",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YXold.png"
+                         ],
+                         "credits": "YX"
+                   },
+                   {
+                       "name": "YX Australia Airlines",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YXaustralia.png"
+                         ],
+                         "credits": "YX"
+                   },
+                   {
+                       "name": "YX Airlines Cargo",
+                       "texture": [
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YXcargo.png"
                          ],
                          "credits": "YX"
                    },
