@@ -54,6 +54,15 @@
             "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-700/YXtechnicaltraining.png"
           ],
           "credits": "YX"
+        },
+        {
+          "name": "Yiwu Air",
+          "texture": [
+            "/models/aircraft/premium/737/normal.jpg",
+            "/models/aircraft/premium/737/specular.jpg",
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-700/Yiwu_Air.png"
+          ],
+          "credits": "YX"
         }
       ],
       "labels": [
@@ -124,6 +133,15 @@
             "/models/aircraft/premium/a380/normal.jpg",
             "/models/aircraft/premium/a380/specular.jpg",
             "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a380/YXfirsta380.png"
+          ],
+          "credits": "YX"
+        },
+        {
+          "name": "YX Airlines (10th A380 for YX Airlines)",
+          "texture": [
+            "/models/aircraft/premium/a380/normal.jpg",
+            "/models/aircraft/premium/a380/specular.jpg",
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a380/YX10th.png"
           ],
           "credits": "YX"
         }
@@ -258,6 +276,14 @@
           "credits": "YX"
         },
         {
+          "name": "YX Airlines B-11A7",
+          "texture": [
+            "/models/aircraft/premium/a350/specular.jpg",
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/B-11A7.png"
+          ],
+          "credits": "YX"
+        },
+        {
           "name": "YX Australia Airlines (First A359 for YX Australia Airlines)",
           "texture": [
             "/models/aircraft/premium/a350/specular.jpg",
@@ -266,10 +292,18 @@
           "credits": "YX"
         },
         {
-          "name": "YX Airlines (Stellar Sky Alliance livery)",
+          "name": "YX Airlines (Stellar Sky Alliance livery) V1",
           "texture": [
             "/models/aircraft/premium/a350/specular.jpg",
             "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXsky.png"
+          ],
+          "credits": "YX"
+        },
+        {
+          "name": "YX Airlines (Stellar Sky Alliance livery) V2",
+          "texture": [
+            "/models/aircraft/premium/a350/specular.jpg",
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXsky2.png"
           ],
           "credits": "YX"
         },
@@ -303,6 +337,22 @@
           "texture": [
             "/models/aircraft/premium/777_300/specular_0.jpg",
             "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YX.png"
+          ],
+          "credits": "YX"
+        },
+        {
+          "name": "YX Business Airlines",
+          "texture": [
+            "/models/aircraft/premium/777_300/specular_0.jpg",
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YXbusiness.png"
+          ],
+          "credits": "YX"
+        },
+        {
+          "name": "YX Airlines (With 777 logo)",
+          "texture": [
+            "/models/aircraft/premium/777_300/specular_0.jpg",
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YX777logo.png"
           ],
           "credits": "YX"
         },
@@ -757,7 +807,29 @@
     },
     "3180": {
       "name": "Boeing b787-10",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "YX Airlines",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b787-10/YX.png"
+          ],
+          "credits": "YX"
+        },
+        {
+          "name": "YX Airlines (red design)",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b787-10/YXred.png"
+          ],
+          "credits": "YX"
+        },
+        {
+          "name": "YX Australia Airlines",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b787-10/YXaustralia.png"
+          ],
+          "credits": "YX"
+        }
+      ],
       "labels": [
         "Texture"
       ]
@@ -829,7 +901,14 @@
       "name": "Boeing b787-9",
       "liveries": [
         {
-          "name": "YX Airlines (With 787-9 logo)",
+          "name": "YX Airlines V1",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b787-9/B229Z.png"
+          ],
+          "credits": "YX"
+        },
+        {
+          "name": "YX Airlines V2",
           "texture": [
             "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b787-9/YX.png"
           ],
@@ -1051,7 +1130,16 @@
     },
     "5409": {
       "name": "Boeing b747-400D",
-      "liveries": [],
+      "liveries": [
+        {
+          "name": "YX Airlines",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b747-400D/YX.png",
+            "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/boeing_b747-400d/wing/original.png"
+          ],
+          "credits": "YX"
+        }
+      ],
       "labels": [
         "Texture",
         "Wing texture"
@@ -1089,6 +1177,13 @@
           "credits": "YX"
         },
         {
+          "name": "YX Airlines (Blue tail)",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YXblue.png"
+          ],
+          "credits": "YX"
+        },
+        {
           "name": "YX Australia Airlines",
           "texture": [
             "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YXaustralia.png"
@@ -1108,11 +1203,33 @@
             "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YXyiwu.png"
           ],
           "credits": "YX"
+        },
+        {
+          "name": "YX Airlines (With logo for the 2026 Singapore Airshow)",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/B91Z9.png"
+          ],
+          "credits": "YX"
         }
       ],
       "labels": [
         "Texture"
       ]
-    }
+    },
+    "5847": {
+      "name": "Airbus A319neo",
+      "liveries": [
+        {
+          "name": "YX Airlines",
+          "texture": [
+            "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a319neo/YX.png"
+          ],
+          "credits": "YX"
+        }
+      ],
+      "labels": [
+        "Texture"
+      ]
+    },
   }
 }
