@@ -77,7 +77,7 @@
                        "texture": [
                                 "/models/aircraft/premium/a380/normal.jpg",
                                 "/models/aircraft/premium/a380/specular.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Airbus_a380/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a380/YX.png"
                          ],
                          "credits": "YX"
                    }
@@ -149,7 +149,7 @@
                   {
                        "name": "YX Airlines",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Concorde/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Concorde/YX.png"
                          ],
                          "credits": "YX"
                    }
@@ -241,15 +241,15 @@
                   {
                        "name": "YX Airlines Cargo",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg",
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b767-300er/YXcargo.jpg"
                          ],
                          "credits": "YX"
                    }
@@ -288,7 +288,7 @@
                   {
                        "name": "YX Australia",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/ATR72-600/YXaustralia.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/ATR72-600/YXaustralia.png"
                          ],
                          "credits": "YX"
                    }
@@ -311,7 +311,7 @@
                   {
                        "name": "YX Airlines (With 787-9 logo)",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b787-9/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b787-9/YX.png"
                          ],
                          "credits": "YX"
                    }
@@ -384,14 +384,14 @@
                   {
                        "name": "YX Airlines",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b737-800/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-800/YX.png"
                          ],
                          "credits": "YX"
                    },
                    {
                        "name": "YX Airlines (Halloween livery)",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b737-800/YX_Halloween.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b737-800/YX_Halloween.png"
                          ],
                          "credits": "YX"
                    }
@@ -475,7 +475,7 @@
                        "name": "YX Airlines",
                        "texture": [
                                 "/models/aircraft/premium/a350/specular.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YX.png"
                          ],
                          "credits": "YX"
                    },
@@ -483,7 +483,7 @@
                        "name": "YX Airlines (Zhengzhou livery)",
                        "texture": [
                                 "/models/aircraft/premium/a350/specular.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXzhengzhou.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a350-900/YXzhengzhou.png"
                          ],
                          "credits": "YX"
                    }
@@ -507,7 +507,7 @@
                   {
                        "name": "YX Airlines B-32XI",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Airbus_a321xlr/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a321xlr/YX.png"
                          ],
                          "credits": "YX"
                    }
@@ -547,7 +547,7 @@
                        "name": "YX Airlines (Stellar Sky Alliance livery)",
                        "texture": [
                                 "/models/aircraft/premium/777_300/specular_0.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YXsky.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YXsky.png"
                          ],
                          "credits": "YX"
                    },
@@ -555,7 +555,7 @@
                        "name": "YX Airlines (World livery)",
                        "texture": [
                                 "/models/aircraft/premium/777_300/specular_0.jpg",
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YXworld.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b777-300er/YXworld.png"
                          ],
                          "credits": "YX"
                    }
@@ -634,7 +634,7 @@
                   {
                        "name": "YX Airlines Cargo",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Airbus_a321-211/YXcargo.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a321-211/YXcargo.png"
                          ],
                          "credits": "YX"
                    }
@@ -657,7 +657,7 @@
                   {
                        "name": "YX Airlines",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Airbus_a330-200/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Airbus_a330-200/YX.png"
                          ],
                          "credits": "YX"
                    }
@@ -951,7 +951,7 @@
                   {
                        "name": "YX Airlines Cargo",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Boeing_b747-8f/YXcargo.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Boeing_b747-8f/YXcargo.png"
                          ],
                          "credits": "YX"
                    }
@@ -992,14 +992,14 @@
                   {
                        "name": "YX Airlines",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Comac_c919/YX.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YX.png"
                          ],
                          "credits": "YX"
                    },
                    {
                        "name": "YX Airlines (Yiwu livery)",
                        "texture": [
-                                "https://raw.githubusercontent.com/CCA131488/YX-AIR./refs/heads/main/liveries/Comac_c919/YXyiwu.png"
+                                "https://raw.githubusercontent.com/CP8888B/YX-AIR./refs/heads/main/liveries/Comac_c919/YXyiwu.png"
                          ],
                          "credits": "YX"
                    }
